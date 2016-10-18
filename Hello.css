@@ -1,0 +1,7 @@
+ul.c_lista1:nth-of-type(odd) {
+    background-color: green;
+}
+
+#tabel2 {
+    background-color: red;
+}
